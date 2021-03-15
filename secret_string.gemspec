@@ -9,15 +9,15 @@ Gem::Specification.new do |spec|
   spec.email         = ["omoghe@umich.edu"]
 
   spec.summary       = "A pure Ruby replacement for `String` to prevent leaking sensitive data."
-  spec.homepage      = "https://github.com/omkarmoghe/secret-string"
+  spec.homepage      = "https://github.com/omkarmoghe/secret_string"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
   # spec.metadata["allowed_push_host"] = ""
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/omkarmoghe/secret-string"
-  spec.metadata["changelog_uri"] = "https://github.com/omkarmoghe/secret-string/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/omkarmoghe/secret_string"
+  spec.metadata["changelog_uri"] = "https://github.com/omkarmoghe/secret_string/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
